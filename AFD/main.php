@@ -7,12 +7,12 @@ use Pocketmine\event\entity\EntityDamageEvent
 use Pocketmine\event\Listener;
 class main extends PluginBase implements Listener {
   
-  public void OnEnable{
+  public function OnEnable{
     
     $this->log ( TextFormat::GREEN . "Anti Fall Damage - ENABLE" );
     
   }
-  public void OnDisable{
+  public function OnDisable{
     
     $this->log ( TextFormat::GREEN . "Anti Fall Damage - DISABLE" );
   }
