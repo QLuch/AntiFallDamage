@@ -1,1 +1,8 @@
-
+ name: AntiFallDamage
+  main: AFD\main
+  version: 0.0.1
+  api: 1.0.0
+  load: POSTWORLD
+  prefix: "AFD"
+  authors: robozeri
+  description: ""
