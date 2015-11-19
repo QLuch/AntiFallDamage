@@ -3,7 +3,7 @@
 namespace AFD;
 
 use PocketMine\plugin\PluginBase;
-use Pocketmine\event\entity\EntityDamageEvent
+use Pocketmine\event\entity\EntityDamageEvent;
 use Pocketmine\event\Listener;
 class main extends PluginBase implements Listener {
   
